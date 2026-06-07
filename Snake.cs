@@ -269,7 +269,7 @@ class Program
 
                     Console.SetCursorPosition(screenwidth / 5, screenheight / 2);
 
-                   //???
+                    Console.WriteLine("Game Over - Ugryzłeś swój ogon!");
 
                     Console.SetCursorPosition(screenwidth / 5, screenheight / 2 + 1);
 
